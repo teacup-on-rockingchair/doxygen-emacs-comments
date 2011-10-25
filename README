@@ -1,0 +1,21 @@
+doxygen.el --- doxygen-style comments taken from Tom Emerson
+
+to use it basicly load this to emacs and use M-x doxygen-insert- ... inserting of function/file comments etc.
+
+two basic patches added by me bellow is full changelog as I got it:
+
+ Change Log (most recent first)
+
+ 2011-10-25  strandjata  Added some customization to the function comment - display func name
+                         to the file comment extract username as author
+
+ 2004-01-02  hajo  Changed format to match my non-C++ style comments
+                   and added my Copyright licence.
+
+ 2001-04-05  tree  Fixed problem in return value recognizer where it did
+                   recognize pointer return values (reported by Mark
+                   Tigges, <mtigges@cpsc.ucalgary.ca>
+ 2000-08-25  tree  Merged fixes/extensions from Marcelo Matus and
+                   John Sturton. Released version 1.1.
+ 2000-07-24  tree  Initial release (1.0)
+
