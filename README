@@ -14,7 +14,7 @@ two basic patches added by me bellow is full changelog as I got it:
 
  2001-04-05  tree  Fixed problem in return value recognizer where it did
                    recognize pointer return values (reported by Mark
-                   Tigges, <mtigges@cpsc.ucalgary.ca>
+                   Tigges,[removed mail on purpose]
  2000-08-25  tree  Merged fixes/extensions from Marcelo Matus and
                    John Sturton. Released version 1.1.
  2000-07-24  tree  Initial release (1.0)
